@@ -1,0 +1,3 @@
+#INSTALL AND CONFIGURATION POSTGRES MASTER - SLAVE
+
+- [MASTER-SLAVE](./master-slave/readme.md)
